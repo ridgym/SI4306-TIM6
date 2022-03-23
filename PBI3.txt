@@ -1,1 +1,1 @@
-Membuat register
+Membuat halaman register
